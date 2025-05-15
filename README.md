@@ -2,7 +2,7 @@
 
 **Automatize seu setup Linux com scripts personalizados.**
 
-O **ShellForge** é uma ferramenta inovadora que gera scripts Shell sob demanda para acelerar e simplificar a configuração pós-instalação de distribuições Linux. Ideal para desenvolvedores, sysadmins e usuários que desejam automatizar a instalação de softwares, utilitários e personalizações do sistema.
+O **ShellForge** é um projeto inovador para acelerar o setup do Linux, oferecendo scripts Shell sob demanda que simplificam a configuração pós-instalação de distribuições Linux. Ideal para desenvolvedores, sysadmins e usuários que desejam automatizar a instalação de softwares, utilitários e personalizações do sistema.
 
 ---
 
